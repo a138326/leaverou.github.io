@@ -3,6 +3,18 @@
 		{
 			"talk": [
 				{
+					"title": "TBD",
+					"type": "Talk"
+				},
+				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			]
+		},
+		{
+			"talk": [
+				{
 					"title": "JS UX: Writing code for humans",
 					"type": "Talk"
 				}
@@ -11,7 +23,7 @@
 			"name": "HolyJS",
 			"date": "2017-12-10",
 			"city": "Moscow",
-			"country": "ru"
+			"country": "fi"
 		},
 		{
 			"talk": [
